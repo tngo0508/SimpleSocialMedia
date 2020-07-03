@@ -1,3 +1,3 @@
 # SimpleSocialMedia
 
-a tutorial from [Brad Traversy]https://github.com/bradtraversy
+a tutorial from [Brad Traversy](https://github.com/bradtraversy)
